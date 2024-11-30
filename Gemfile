@@ -17,7 +17,7 @@ group :jekyll_plugins do
   gem 'github-pages'
   gem 'jekyll-feed', '~> 0.12'
 end
-# gem 'jekyll-theme-yat'
+gem 'jekyll-theme-yat'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
