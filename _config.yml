@@ -22,11 +22,12 @@ title: passiveobserver.com
 email: admin@passiveobserver.com
 description: >- # this means to ignore newlines until "baseurl:"
   The passiveobserver hides behind the dead internet theory.
-  Subdued into inaction, I commontate the truth by mumbling into my morning coffee.
+  Subdued into inaction,
+  I commontate the truth by mumbling into my morning coffee.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://passiveobserver.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  voodoologic
-
+url: "https://passiveobserver.com"  # the base hostname & protocol for your site
+github_username: voodoologic
+markdown: GFM
 # Build settings
 theme: jekyll-theme-yat
 plugins:
