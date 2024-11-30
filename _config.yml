@@ -30,7 +30,7 @@ github_username: voodoologic
 markdown: GFM
 # Build settings
 # theme: jekyll-theme-yat
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
 
