@@ -29,7 +29,8 @@ url: "https://passiveobserver.com"  # the base hostname & protocol for your site
 github_username: voodoologic
 markdown: GFM
 # Build settings
-theme: jekyll-theme-yat
+# theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
 
