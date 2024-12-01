@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: passiveobserver.com
 layout: home
 ---
 
@@ -13,4 +13,4 @@ This site is run on jekyll.  I thought about a mastodon micro-blog, but it's a l
 My aim is to host my own cloud using kubernetes.  It's taken 3 years to finally get my head around the intricacies
 but this time around I've groked it enough that I want to take notes while I ship things.
 This blog is one part.
-Maybe this should have been a blog post
+Maybe this should have been a blog post.
