@@ -6,6 +6,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
+
   /* background: linear-gradient(to top, #00192a, #012a40), radial-gradient(circle at center top, #00192a 0%, #012a40 60%) */
   background: radial-gradient(circle at center top, #012a40 20%, #00192a 60%);
 }
@@ -20,13 +21,13 @@ video {
   z-index: -1;
 }
 
-@media (max-aspect-ratio: 16/9) {
+@media (aspect-ratio <= 16/9) {
   video {
     width: 100%;
   }
 }
 
-@media (min-aspect-ratio: 16/9) {
+@media (aspect-ratio >= 16/9) {
   video {
     height: 100%;
   }
