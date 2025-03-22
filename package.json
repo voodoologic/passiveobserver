@@ -79,5 +79,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "ember-cli-netlify": "^0.4.1"
   }
 }
