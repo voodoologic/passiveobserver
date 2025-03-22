@@ -6,7 +6,7 @@ module.exports = function (defaults) {
   const app = new EmberApp(defaults, {
     'ember-cli-netflify': {
       redirects: [
-        '/* /index.html '
+        '/* /index.html 200'
       ]
     }
   });
