@@ -7,5 +7,6 @@ module.exports = function (defaults) {
     // Add options here
   });
 
+  app.import('public/video.css')
   return app.toTree();
 };
